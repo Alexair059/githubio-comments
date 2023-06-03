@@ -1,2 +1,4 @@
 # githubio-comments
-Store the comments & test the git func
+Store the comments & Test the git func
+
+Now a new line
